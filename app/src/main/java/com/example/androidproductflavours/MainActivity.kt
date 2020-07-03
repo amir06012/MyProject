@@ -8,5 +8,9 @@ open class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
        // hello1
+
+        //hello6
+
+        //hello7
     }
 }
