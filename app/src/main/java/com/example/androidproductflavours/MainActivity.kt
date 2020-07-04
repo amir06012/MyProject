@@ -9,7 +9,7 @@ open class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         textView.text="Hello Amir"
-        textView.text="Hello Yusuf"
+ 
 
     }
 }
