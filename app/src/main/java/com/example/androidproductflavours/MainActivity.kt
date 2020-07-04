@@ -8,8 +8,6 @@ open class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        textView.text="Hello Amir"
-        textView.text="Hello Fahad"
-        textView.text="Hello Yusuf"
+     
     }
 }
