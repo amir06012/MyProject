@@ -10,5 +10,6 @@ open class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         textView.text="Hello Amir"
         textView.text="Hello Fahad"
+        textView.text="Hello Yusuf"
     }
 }
